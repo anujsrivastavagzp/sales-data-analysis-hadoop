@@ -1,0 +1,11 @@
+orderId,product,category,region,sales,quantity,discount,profit
+1,A,Furniture,North,100,2,0.1,20
+2,B,Technology,West,200,3,0.2,50
+3,A,Furniture,South,150,1,0.0,30
+4,C,Office,East,300,4,0.3,70
+5,B,Technology,North,100,2,0.1,25
+6,D,Furniture,West,250,3,0.2,40
+7,E,Office,South,400,5,0.0,90
+8,A,Furniture,East,200,2,0.1,35
+9,C,Office,North,150,1,0.0,20
+10,B,Technology,South,300,4,0.2,60
